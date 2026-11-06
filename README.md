@@ -14,3 +14,5 @@ touched) and hands the TLS records to Apple Devices one at a time, with a short 
   4. after the update remove the hosts line and run ipconfig /flushdns again
 
 **Use at your own risk. The code is provided as is with no guarantee** (it worked for me, the software to be fixed is not open source, I can't do more)
+
+I've posted [here](https://discussions.apple.com/thread/255817751?answerId=255817751021&sortBy=rank#255817751021) as well
