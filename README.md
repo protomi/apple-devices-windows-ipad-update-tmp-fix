@@ -12,3 +12,5 @@ touched) and hands the TLS records to Apple Devices one at a time, with a short 
   2. ipconfig /flushdns
   3. python apple_key_relay.py      (keep it open during the update; Ctrl+C to quit)
   4. after the update remove the hosts line and run ipconfig /flushdns again
+
+**Use at your own risk. The code is provided as is with no guarantee** (it worked for me, the software to be fixed is not open source, I can't do more)
